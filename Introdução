@@ -1,0 +1,72 @@
+**INTRODUÇÃO À ARQUITETURA DE COMPUTADORES**
+
+**O QUE É ARQUITETURA DE COMPUTADORES?**
+A _Arquitetura de Computadores_ é a área da tecnologia que estuda a estrutura e o funcionamento interno de um computador.
+Ela define como os componentes físicos e lógicos trabalham juntos para executar programas.
+Em outras palavras, é a arquitetura que determina:
+- como os dados são processados
+- como as instruções são executadas
+- como os componentes se comunicam
+É a base que permite que softwares funcionem corretamente no hardware.
+
+**HARDWARE X SOFTWARE**
+_Hardware_
+O hardware corresponde à parte física do computador, ou seja, tudo aquilo que pode ser tocado. Exemplos:
+- Processador (CPU)
+- Memória RAM
+- HD / SSD
+- Teclado, mouse e monitor
+O hardware é responsável por executar as operações.
+
+_Software_
+O software é a parte lógica, ou seja, os programas e instruções que dizem ao hardware o que fazer. Exemplos:
+- Sistemas operacionais (Windows, Linux)
+- Aplicativos (navegadores, editores de texto)
+- Programas desenvolvidos por usuários
+O software fornece as instruções que o hardware executa.
+
+_Relação entre Hardware e Software_
+Hardware e software trabalham juntos:
+- o software envia instruções
+- o hardware executa essas instruções
+Sem software, o hardware não tem função.  
+Sem hardware, o software não pode ser executado.
+
+**EVOLUÇÃO DOS COMPUTADORES**
+A evolução dos computadores ocorreu em diferentes gerações ao longo do tempo, impulsionada principalmente pela necessidade 
+de processamento de informações de forma mais rápida e eficiente. Um dos grandes marcos iniciais aconteceu durante a Segunda 
+Guerra Mundial, quando havia a necessidade de decifrar códigos militares, o que acelerou o desenvolvimento das primeiras 
+máquinas computacionais.
+
+A _1ª Geração_ de computadores, entre 1940 e 1956, foi marcada pelo uso de válvulas eletrônicas. Esses computadores eram 
+extremamente grandes, consumiam muita energia e possuíam baixa velocidade de processamento, além de apresentarem frequentes
+falhas.
+
+Na _2ª Geração_, entre 1956 e 1963, as válvulas eletrônicas foram substituídas por transistores. Essa mudança permitiu a 
+redução do tamanho das máquinas, aumento da eficiência e maior confiabilidade, embora seu uso ainda fosse restrito a áreas 
+militares e grandes empresas.
+
+Já na _3ª Geração_, entre 1964 e 1971, surgiram os circuitos integrados, conhecidos como chips. Essa evolução possibilitou 
+um aumento significativo na velocidade de processamento e uma nova redução no tamanho dos computadores, permitindo que 
+começassem a ser utilizados em ambientes corporativos.
+
+A _4ª Geração_, iniciada em 1971 e que se estende até os dias atuais, é caracterizada pelo surgimento dos microprocessadores. 
+Essa inovação permitiu a popularização dos computadores pessoais, tornando-os mais acessíveis, menores e mais eficientes, além
+de possibilitar sua expansão para uso doméstico.
+
+Atualmente, vivemos a chamada _5ª Geração_, marcada pelo avanço da inteligência artificial, computação em nuvem e dispositivos 
+móveis, como smartphones. Os sistemas se tornaram mais inteligentes, integrados e capazes de interagir com os usuários por meio 
+de comandos de voz, imagens e automação.
+
+**CONEXÃO COM PROGRAMAÇÃO**
+A Arquitetura de Computadores está diretamente ligada à programação.
+Quando escrevemos um algoritmo ele é convertido em instruções, a CPU executa essas instruções e os dados são armazenados em 
+memórias (RAM e HD/ SSD).
+
+Ou seja, programar é, na prática, dar comandos para a arquitetura do computador executar.
+
+CONCLUSÃO
+Compreender a arquitetura de computadores é essencial para entender como os programas funcionam, como escrever códigos mais eficientes e compreender o funcionamento interno dos computadores.
+Além disso, o profissional de tecnologia precisa estar em constante evolução, acompanhando as mudanças tecnológicas.
+ 
+Este é o primeiro passo para construir uma base sólida em programação.

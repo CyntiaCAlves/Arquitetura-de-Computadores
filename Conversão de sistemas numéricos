@@ -1,0 +1,76 @@
+**CONVERSÕES DE SISTEMAS NUMÉRICOS**
+As conversões entre sistemas numéricos são fundamentais para entender como os computadores representam e processam dados.
+
+_Binário → Decimal_
+Cada posição do número binário representa uma potência de 2.
+Exemplo:
+1011 (binário)
+= (1×2³) + (0×2²) + (1×2¹) + (1×2⁰)  
+= 8 + 0 + 2 + 1  
+= 11 (decimal)
+
+_Binário → Octal_
+Agrupe os bits de 3 em 3 (da direita para a esquerda).
+Exemplo:
+101011
+→ 101 011  
+→ 5   3  
+Resultado: 53 (octal)
+
+_Binário → Hexadecimal_
+Agrupe os bits de 4 em 4.
+Exemplo:
+10101111
+→ 1010 1111  
+→  A    F  
+Resultado: AF (hexadecimal)
+
+_Octal → Decimal_
+Cada dígito representa potência de 8.
+Exemplo:
+53 (octal)
+= (5×8¹) + (3×8⁰)  
+= 40 + 3  
+= 43 (decimal)
+
+_Octal → Hexadecimal_
+Passo intermediário:
+1. Converta octal → binário  
+2. Depois binário → hexadecimal  
+Exemplo:
+53 (octal)
+5 → 101  
+3 → 011  
+→ 101011
+Agora para hexadecimal:
+→ 0010 1011  
+→   2    B  
+Resultado: 2B (hexadecimal)
+
+_Decimal → Hexadecimal_
+Divida o número por 16 sucessivamente.
+Exemplo:
+26
+26 ÷ 16 = 1 resto 10  
+10 = A  
+Resultado: 1A (hexadecimal)
+
+**Dicas importantes**
+- Binário trabalha com base 2  
+- Octal trabalha com base 8  
+- Hexadecimal trabalha com base 16  
+- Agrupamentos facilitam conversões rápidas  
+
+**Conclusão**
+Dominar essas conversões ajuda a entender:
+- como o computador armazena dados
+- como linguagens de programação funcionam
+- como otimizar códigos
+
+**REGRA DE OUTRO:**
+  Conversão           Estratégia
+Binário → Decimal     Potência de 2
+Decimal → Binário     Divisão por 2
+Binário → Octal       Grupos de 3 bits
+Binário → Hexa        Grupos de 4 bits
+Octal/Hexa → Decimal	Potências (8 ou 16)

@@ -1,0 +1,63 @@
+**EXERCÍCIOS**
+_Exercício 1_
+1101 (binário) → decimal
+= 1x2^3 + 1x2^2 + 0x2^1 + 1x2^0
+= 1x8 + 1x4 + 0x2 + 1x1
+= 8 + 4 + 0 + 1
+= 13
+Resultado 13
+
+_Exercício 2_
+111010 (binário) → octal
+= (1x2^2 + 1x2^1 + 1x2^0)
+= (1x4 + 1x2 + 1x1) 
+= (4 + 2 + 1)
+= 7
+
+= (0x2^2 + 1x2^1 + 0x2^0)
+= (0x4 + 1x2 + 0x1)x1
+= (0 + 2 + 0)
+= 2
+Resultado 72
+
+_Exercício 3_
+45 (decimal) → hexadecimal
+45 ÷ 16 =2 resto 13
+13 = C
+Resultado 2C
+
+_Exercício 4_
+10111100 (binário) → hexadecimal
+1011 
+= (1x2^3+ 0x2^2 + 1x2^1 + 1x2^0)
+= (1x8 + 0x4 + 1x2 + 1x1)
+= 8 + 0 + 2 + 1
+= 11 -> B
+
+1100
+= (1x2^3 + 1x2^2 + 0x2^1 + 0x2^0)
+= (1x8 + 1x4 + 0x2 + 0x1)
+= 8 + 4 +0 + 0
+= 12 -> C
+Resultado BC
+
+_Exercício 5_
+1.1100.1011 (binário) → hexadecimal
+0001
+= (0x2^3 + 0x2^2 + 0x2^1 + 1x2^0)
+= (0x8 + 0x4 + 0x2 + 1x1)
+= 0 + 0 + 0 + 1
+= 1
+
+1100
+= (1x2^3 +1x2^2 + 0x2^1 + 0x2^0)
+= (1x8 + 1x4 + 0x2 + 0x1)
+= 8 + 4 + 0 + 0
+= 12 -> C
+
+1011
+= (1x2^3 + 0x2^2 + 1x2^1 + 1x2^0)
+= (1x8 + 0x4 + 1x2 + 1x1)
+= 8 + 0 + 2 + 1
+= 11 -> B
+Resposta 1CB

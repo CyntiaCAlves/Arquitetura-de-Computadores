@@ -1,0 +1,85 @@
+REPRESENTAÇÃO DE DADOS – BITS E BYTES
+
+O que é um Bit?
+O bit (binary digit) é a menor unidade de informação em um computador.
+
+Ele pode assumir apenas dois valores:
+- 0 (desligado)
+- 1 (ligado)
+
+Esses valores representam sinais elétricos dentro do computador.
+
+O que é um Byte?
+Um byte é formado por 8 bits.
+
+Exemplo:
+01000001 → representa um caractere (como a letra "A")
+
+Múltiplos de armazenamento
+- 1 Byte = 8 bits  
+- 1 KB = 1024 Bytes  
+- 1 MB = 1024 KB  
+- 1 GB = 1024 MB  
+- 1 TB = 1024 GB  
+
+Importância
+Os bits e bytes são a base de tudo:
+- arquivos
+- imagens
+- vídeos
+- programas
+
+Tudo que existe no computador é representado em bits.
+
+SISTEMA BINÁRIO
+
+O sistema binário é um sistema numérico de base 2. Ele utiliza apenas dois dígitos:
+- 0
+- 1
+
+Como funciona?
+Cada posição representa uma potência de 2:
+Exemplo:
+1011
+= (1×2³) + (0×2²) + (1×2¹) + (1×2⁰)  
+= 8 + 0 + 2 + 1  
+= 11
+
+Importância
+O sistema binário é utilizado pelos computadores porque:
+- representa sinais elétricos (ligado/desligado)
+- facilita o processamento de dados
+
+SISTEMA DECIMAL
+É o sistema numérico que usamos no dia a dia. Base: 10
+
+Dígitos:
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+
+Como funciona?
+Cada posição representa uma potência de 10.
+Exemplo:
+345
+= (3×10²) + (4×10¹) + (5×10⁰)  
+= 300 + 40 + 5  
+= 345
+
+Relação com a computação
+Os humanos usam decimal, mas os computadores usam binário.
+
+Por isso, conversões são necessárias.
+
+SISTEMA HEXADECIMAL
+Sistema numérico de base 16. Usa-se os números de 0 a 9 sequenciados das letras A até F, onde A = 10; B = 11; C = 12; D = 13; E = 14; F = 15.
+Exemplo
+1A (hexadecimal)
+= (1×16¹) + (10×16⁰)  
+= 16 + 10  
+= 26 (decimal)
+
+Importância
+Muito usado em:
+- programação
+- cores (ex: #FFFFFF)
+- endereços de memória
+Facilita a leitura de números binários grandes.

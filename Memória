@@ -1,0 +1,95 @@
+**MEMÓRIA DE COMPUTADORES**
+A memória é responsável por armazenar dados e instruções que serão utilizados pelo computador.
+Ela permite que a CPU acesse informações rapidamente para executar programas.
+
+_Tipos principais de memória_
+-	Memória RAM
+-	Memória ROM
+-	Memória Cache
+-	Armazenamento (HD e SSD)
+
+_Importância_
+A memória é essencial para o funcionamento do computador, pois sem ela não seria possível armazenar ou processar informações.
+
+_Relação com programação_
+Quando criamos variáveis em um programa, elas são armazenadas na memória.
+Quanto melhor o gerenciamento da memória, melhor o desempenho do software.
+
+**MEMÓRIA RAM E ROM**
+
+**MEMÓRIA RAM (RANDOM ACCESS MEMORY)**
+A RAM é uma memória volátil, utilizada para armazenar dados temporários durante a execução de programas.
+
+_Características_
+-	Volátil (perde os dados ao desligar)
+-	Alta velocidade
+-	Usada durante a execução de programas
+
+**MEMÓRIA ROM (READ ONLY MEMORY)**
+A ROM é uma memória não volátil, utilizada para armazenar informações permanentes.
+
+_Características_
+-	Não volátil
+-	Armazena instruções essenciais do sistema
+-	Não pode ser facilmente modificada 
+
+_Diferença principal_
+-	RAM → temporária  
+-	ROM → permanente
+
+**MEMÓRIA CACHE**
+A memória cache é um tipo de memória extremamente rápida, localizada próxima à CPU.
+
+_Função_
+Armazenar dados que são acessados com frequência, para acelerar o processamento.
+
+_Por que ela é importante?_
+A cache reduz o tempo de acesso à memória, melhorando o desempenho do sistema.
+
+_Níveis de cache_
+-	L1 → mais rápida e menor
+-	L2 → intermediária
+-	L3 → maior, porém mais lenta
+
+_Relação com desempenho_
+Quanto melhor a utilização da cache, mais rápido o programa será executado.
+
+**HIERARQUIA DE MEMÓRIA**
+A hierarquia de memória organiza os diferentes tipos de memória de acordo com velocidade, custo e capacidade.
+
+_Estrutura_
+Do mais rápido para o mais lento:
+1. Registradores
+2. Cache
+3. Memória RAM
+4. Armazenamento (HD/SSD)
+
+_Características_
+-	Quanto mais rápida → menor capacidade
+-	Quanto mais lenta → maior capacidade
+
+_Importância_
+Essa organização permite equilibrar desempenho e custo no sistema.
+
+_Relação com programação_
+Programas bem otimizados utilizam melhor a hierarquia de memória, aumentando a eficiência.
+
+**ARMAZENAMENTO (HD E SSD)**
+O armazenamento é responsável por guardar dados de forma permanente.
+
+_HD (Hard Disk)_
+-	Utiliza discos magnéticos
+-	Mais barato
+-	Mais lento
+
+_SSD (Solid State Drive)_
+-	Utiliza memória flash
+-	Muito mais rápido
+-	Mais caro
+
+_Diferença principal_
+-	HD → maior capacidade por menor custo
+-	SSD → maior velocidade
+
+_Importância_
+O tipo de armazenamento impacta diretamente no desempenho do computador, especialmente no tempo de inicialização e abertura de programas.

@@ -1,0 +1,89 @@
+**CPU (UNIDADE CENTRAL DE PROCESSAMENTO)**
+A CPU (Central Processing Unit) é o principal componente de um computador, responsável por executar instruções e processar dados.
+Ela é frequentemente chamada de "cérebro do computador", pois coordena todas as operações do sistema.
+
+_Funções principais_
+- Executar programas
+- Processar dados
+- Controlar os demais componentes
+
+**COMPONENTES PRINCIPAIS DA CPU** 
+é composta por:
+- Unidade de Controle
+- Unidade Lógica e Aritmética (ULA)
+- Registradores
+
+_Importância_
+Sem a CPU, o computador não consegue executar nenhuma tarefa.
+Ela interpreta as instruções dos programas e transforma essas instruções em ações reais.
+
+_Componentes da CPU_
+A CPU é formada por três componentes principais, que trabalham juntos para executar instruções:
+1. Unidade de Controle (UC): responsável por controlar e coordenar todas as operações do computador.
+2. Unidade Lógica e Aritmética (ULA): responsável por realizar cálculos matemáticos e operações lógicas.
+3. Registradores: são pequenas áreas de armazenamento dentro da CPU, usadas para guardar dados temporários.
+
+_Funcionamento conjunto_
+Esses componentes trabalham de forma integrada:
+- A UC controla
+- A ULA processa
+- Os registradores armazenam temporariamente
+
+Isso permite que a CPU execute instruções com rapidez e eficiência.
+
+**UNIDADE DE CONTROLE (UC)**
+A Unidade de Controle é responsável por gerenciar e coordenar o funcionamento da CPU.
+
+_Funções_
+- Buscar instruções na memória
+- Decodificar instruções
+- Controlar a execução das operações
+
+_Importância_
+A UC garante que todas as partes do computador trabalhem em harmonia.
+Sem ela, o sistema não conseguiria executar tarefas corretamente.
+
+**UNIDADE LÓGICA E ARITMÉTICA (ULA)**
+A ULA é responsável por realizar operações matemáticas e lógicas dentro da CPU.
+
+_Operações realizadas_
+1. Aritméticas:
+    - Soma
+    - Subtração
+    - Multiplicação
+    - Divisão
+
+2. Lógicas:
+    - Comparações (maior, menor, igual)
+    - Operações booleanas (verdadeira ou falsa)
+
+Importância
+A ULA é essencial para o funcionamento de programas, pois realiza os cálculos necessários para a execução das instruções.
+
+**REGISTRADORES**
+Os registradores são pequenas áreas de memória dentro da CPU.
+
+_Função_
+Armazenar dados temporários durante o processamento.
+
+_Características_
+- Muito rápidos
+- Capacidade limitada
+- Usados constantemente pela CPU
+
+_Importância_
+Permitem que a CPU acesse dados rapidamente, aumentando o desempenho do sistema.
+
+**CICLO DE INSTRUÇÃO**
+O ciclo de instrução representa o processo que a CPU segue para executar um programa.
+
+_Etapas_
+1.	Busca (Fetch): A CPU busca a instrução na memória.
+2.	Decodificação (Decode): A instrução é interpretada.
+3.	Execução (Execute): A operação é realizada.
+
+_Importância_
+Esse ciclo acontece milhares ou milhões de vezes por segundo, permitindo que os programas funcionem corretamente.
+
+_Relação com programação_
+Quando escrevemos um algoritmo, ele será executado seguindo esse ciclo dentro da CPU.

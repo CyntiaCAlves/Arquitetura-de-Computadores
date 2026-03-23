@@ -1,0 +1,81 @@
+**SISTEMAS E COMUNICAÇÃO**
+Os sistemas e mecanismos de comunicação são responsáveis por permitir a troca de dados entre os componentes do computador.
+Eles garantem que informações circulem corretamente entre CPU, memória e dispositivos externos.
+
+_Principais elementos_
+-	Dispositivos de entrada e saída
+-	Barramentos
+-	Sistemas operacionais
+
+_Importância_
+Sem esses mecanismos, os componentes do computador não conseguiriam se comunicar, tornando impossível a execução de tarefas.
+
+_Relação com programação_
+Os programas dependem desses sistemas para:
+-	receber dados do usuário
+-	enviar informações para dispositivos
+-	interagir com o sistema operacional
+
+**DISPOSITIVOS DE ENTRADA E SAÍDA**
+Os dispositivos de entrada e saída permitem a comunicação entre o usuário e o computador.
+
+_Dispositivos de Entrada_
+São responsáveis por enviar dados para o computador.
+Exemplos:
+-	Teclado
+-	Mouse
+-	Microfone
+-	Scanner
+
+_Dispositivos de Saída_
+São responsáveis por apresentar informações ao usuário.
+Exemplos:
+-	Monitor
+-	Impressora
+-	Alto-falantes
+
+_Dispositivos de Entrada e Saída_
+Alguns dispositivos realizam ambas as funções.
+Exemplos:
+-	Touchscreen
+-	Pen drive
+
+_Importância_
+Esses dispositivos permitem a interação entre o usuário e o sistema computacional.
+
+**BARRAMENTOS**
+Os barramentos são canais de comunicação responsáveis por transportar dados entre os componentes do computador.
+
+_Função_
+Permitir a troca de informações entre:
+-	CPU
+-	Memória
+-	Dispositivos
+
+_Tipos de barramentos_
+-	Barramento de Dados: transporta os dados.
+-	Barramento de Controle: controla as operações (leitura, escrita, etc.).
+-	Barramento de Endereços: indica onde os dados devem ser enviados ou armazenados.
+
+_Importância_
+Os barramentos garantem que os dados circulem corretamente dentro do sistema.
+
+**SISTEMAS OPERACIONAIS**
+O sistema operacional (SO) é o software responsável por gerenciar o funcionamento do computador.
+
+_Funções principais_
+-	Gerenciar hardware
+-	Controlar memória
+-	Executar programas
+-	Gerenciar dispositivos de entrada e saída
+Exemplos
+-	Windows
+-	Linux
+-	macOS
+
+_Importância_
+O sistema operacional atua como intermediário entre o usuário e o hardware.
+Sem ele, o computador não seria utilizável.
+
+_Relação com programação_
+Os programas são executados através do sistema operacional, que gerencia recursos como memória e processamento.

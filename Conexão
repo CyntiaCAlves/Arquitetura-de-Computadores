@@ -1,0 +1,78 @@
+**CONEXÃO ENTRE ARQUITETURA E PROGRAMAÇÃO**
+A Arquitetura de Computadores e a Programação estão diretamente relacionadas.
+Enquanto a arquitetura define como o computador funciona internamente, a programação define quais instruções serão executadas.
+
+_Relação geral_
+-	Programas são convertidos em instruções
+-	A CPU executa essas instruções
+-	A memória armazena os dados utilizados
+
+_Importância_
+Compreender essa relação permite escrever códigos mais eficientes e entender melhor o funcionamento dos sistemas.
+
+_Aplicação prática_
+Esse conhecimento é essencial para:
+-	desenvolvimento de software
+-	otimização de código
+-	análise de desempenho
+
+**MEMÓRIA E VARIÁVEIS**
+Na programação, as variáveis são utilizadas para armazenar dados.
+Esses dados são armazenados na memória do computador, principalmente na memória RAM.
+
+_Como funciona_
+Quando declaramos uma variável:
+-	um espaço na memória é reservado
+-	esse espaço armazena o valor da variável
+
+Exemplo
+python
+idade = 25
+O valor 25 é armazenado em um espaço da memória.
+
+_Importância_
+Entender essa relação ajuda a:
+-	evitar desperdício de memória
+-	melhorar o desempenho do programa
+-	compreender erros relacionados a memória
+
+_CPU e Execução de Algoritmos_
+Quando escrevemos um algoritmo, ele é transformado em instruções que a CPU pode entender.
+
+_Processo_
+1. O programa é carregado na memória
+2. A CPU busca as instruções
+3. As instruções são executadas
+
+_Relação com o ciclo de instrução_
+A CPU executa algoritmos seguindo o ciclo:
+-	Buscar
+-	Decodificar
+-	Executar
+
+_Importância_
+Cada linha de código escrita será interpretada e executada pela CPU.
+Quanto melhor o algoritmo, mais eficiente será a execução.
+
+**DESEMPENHO SOFTWARE**
+Impacto da Arquitetura no Desempenho do Software
+O desempenho de um programa depende diretamente da forma como ele utiliza os recursos do computador.
+
+_Fatores importantes_
+-	Uso da memória
+- Número de operações
+-	Organização do código
+-	Aproveitamento da CPU
+
+Exemplos
+-	Algoritmos mais eficientes executam mais rápido
+-	Uso excessivo de memória pode deixar o programa lento
+
+_Relação com hardware_
+O software depende da arquitetura para:
+-	acessar memória
+-	executar instruções
+-	processar dados
+
+**CONCLUSÃO**
+Programadores que entendem arquitetura conseguem desenvolver sistemas mais rápidos, eficientes e escaláveis.

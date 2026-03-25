@@ -1,0 +1,77 @@
+**DESEMPENHO DOS COMPUTADORES**
+O desempenho de um computador está relacionado à sua capacidade de executar tarefas de forma rápida e eficiente.
+Ele depende de diversos fatores, como velocidade do processador, memória e técnicas de otimização.
+
+_Principais fatores de desempenho_
+-	Clock do processador
+-	Capacidade de processamento
+-	Paralelismo
+-	Pipeline
+
+_Importância_
+Um bom desempenho permite que programas sejam executados mais rapidamente, melhorando a experiência do usuário e a eficiência do sistema.
+
+_Relação com programação_
+Programas bem escritos podem aproveitar melhor os recursos do sistema, aumentando o desempenho.
+
+**CLOCK**
+O clock é um sinal que sincroniza as operações da CPU.
+Ele determina o ritmo em que as instruções são executadas.
+
+_Frequência_
+O clock é medido em Hertz (Hz), geralmente em GHz (gigahertz).
+Exemplo:
+-	3 GHz → 3 bilhões de ciclos por segundo
+
+_Importância_
+Quanto maior a frequência do clock, maior a quantidade de instruções que podem ser processadas por segundo.
+
+_Observação_
+Um clock mais alto não garante sozinho melhor desempenho, pois outros fatores também influenciam.
+
+**PROCESSAMENTO**
+O processamento é a capacidade da CPU de executar instruções e realizar cálculos.
+
+_Fatores que influenciam_
+-	Velocidade do clock
+-	Número de núcleos
+-	Eficiência da arquitetura
+
+_Tipos de processamento_
+-	Processamento Sequencial: executa uma instrução por vez.
+-	Processamento Multicore: permite executar múltiplas tarefas ao mesmo tempo.
+
+_Importância_
+Um bom processamento permite executar programas mais rapidamente e lidar com tarefas complexas.
+
+**PARALELISMO**
+O paralelismo é a capacidade de executar várias tarefas ao mesmo tempo.
+
+_Como funciona_
+A CPU divide o trabalho em partes menores e executa simultaneamente.
+
+_Tipos de paralelismo_
+-	Paralelismo de dados
+-	Paralelismo de tarefas
+
+_Importância_
+O paralelismo melhora o desempenho, especialmente em aplicações que exigem muitos cálculos, como jogos e inteligência artificial.
+
+**PIPELINE**
+O pipeline é uma técnica que permite executar várias etapas de instruções ao mesmo tempo.
+
+_Como funciona_
+Uma instrução é dividida em etapas, como:
+1. Busca
+2. Decodificação
+3. Execução
+
+Enquanto uma instrução está sendo executada, outra pode estar sendo decodificada, e outra sendo buscada.
+
+_Analogia_
+Funciona como uma linha de produção:
+-	cada etapa realiza uma parte do trabalho
+-	várias tarefas acontecem simultaneamente
+
+_Importância_
+O pipeline aumenta a eficiência da CPU, permitindo executar mais instruções em menos tempo.
